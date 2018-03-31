@@ -1,3 +1,5 @@
+//本人博客http://wenzheng.club
+//资源源于国外网站。搜索不易，希望转载注明出处。
 import processing.serial.*; // imports library for serial communication
 import java.awt.event.KeyEvent; // imports library for reading the data from the serial port
 import java.io.IOException;
