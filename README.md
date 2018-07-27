@@ -1,14 +1,47 @@
-## 超声波雷达 ##
+## 超声波雷达扫描仪 ##
 
-> 以前都是在国外论坛看到，终于让我翻墙搞了好久才查到，特分享出来。
+ -  资源源于YouTube
+ -  给闲鱼朋友定做的装置详细教程和资料。
+
+> processing 本人七牛云下载地址：[下载](http://pcid8pvoy.bkt.clouddn.com/processing-3.4-windows64.zip)
+> GitHub链接：[GO](https://github.com/az666/process_arduino_leida)
+
+![](https://i.loli.net/2018/07/27/5b5aa3991f962.jpg)
+
+----------
+
+
+![](https://i.loli.net/2018/07/27/5b5aa241620c5.jpg)
+
+----------
+
+
+![](https://i.loli.net/2018/07/27/5b5a9f60c47fe.png)
+
+
+----------
+![](https://i.loli.net/2018/07/27/5b5aa0a80f045.png)
+
+
+----------
+![](https://i.loli.net/2018/07/27/5b5aa0b4d4164.png)
+
+
+----------
+![](https://i.loli.net/2018/07/27/5b5aa0c3ccacd.png)
 
 
 ----------
 
-> ![引用块内容](http://img.blog.csdn.net/20180331231322445?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc3dpdGNoX2xvdmVfY2FzZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-> 
+![](https://i.loli.net/2018/07/27/5b5aa1401a838.png)
+
+----------
+![](https://i.loli.net/2018/07/27/5b5aa0d295085.png)
 
 
 ----------
+![](https://i.loli.net/2018/07/27/5b5aa1071ccaa.png)
 
-> ![引用块内容](http://img.blog.csdn.net/20180331231355353?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc3dpdGNoX2xvdmVfY2FzZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+----------
+![](https://i.loli.net/2018/07/27/5b5aa1757be4d.png)
