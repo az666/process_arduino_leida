@@ -1,5 +1,3 @@
-//本人博客http://wenzheng.club
-//资源源于国外网站。搜索不易，希望转载注明出处。
 import processing.serial.*; // imports library for serial communication
 import java.awt.event.KeyEvent; // imports library for reading the data from the serial port
 import java.io.IOException;
@@ -111,11 +109,11 @@ void drawText() { // draws the texts on the screen
   text("30cm",width-width*0.177,height-height*0.0833);
   text("40cm",width-width*0.0729,height-height*0.0833);
   textSize(40);
-  text("Indian Lifehacker ", width-width*0.875, height-height*0.0277);
-  text("Angle: " + iAngle +" ?", width-width*0.48, height-height*0.0277);
-  text("Distance: ", width-width*0.26, height-height*0.0277);
+  text("Pengwenzheng ", width-width*0.875, height-height*0.0277);
+  text("Angle:" + iAngle +" ", width-width*0.48, height-height*0.0277);
+  text("Distance:", width-width*0.26, height-height*0.0277);
   if(iDistance<40) {
-  text("        " + iDistance +" cm", width-width*0.225, height-height*0.0277);
+  text("           " + iDistance +" cm", width-width*0.225, height-height*0.0277);
   }
   textSize(25);
   fill(98,245,60);
